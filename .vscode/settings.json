@@ -37,10 +37,10 @@
     ],
     "Lua.runtime.pathStrict": true,
     "Lua.workspace.library": [
-        "/Users/takahironakamura/Documents/Hobby/Stormworks/StormworksMicroComLua/",
-        "/Users/takahironakamura/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Common/",
-        "/Users/takahironakamura/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Microcontroller/",
-        "/Users/takahironakamura/Documents/Hobby/Stormworks/StormworksMicroComLua/_build/libs/"
+        "c:/Users/t_nak/Documents/GitHub/StormworksMicroComLua/",
+        "c:/Users/t_nak/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Common/",
+        "c:/Users/t_nak/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Microcontroller/",
+        "c:/Users/t_nak/Documents/GitHub/StormworksMicroComLua/_build/libs/"
     ],
     "lifeboatapi.stormworks.libs.gitLibraries": [
         {
